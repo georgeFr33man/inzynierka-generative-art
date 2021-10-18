@@ -1,0 +1,26 @@
+{
+  "name": "generative-art",
+  "version": "1.0.0",
+  "description": "A library with custom made generative art photo filters",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeFr33man/inzynierka-generative-art.git"
+  },
+  "keywords": [
+    "generative",
+    "art"
+  ],
+  "author": "Michal Ryngier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgeFr33man/inzynierka-generative-art/issues"
+  },
+  "homepage": "https://github.com/georgeFr33man/inzynierka-generative-art#readme",
+  "dependencies": {
+    "p5": "^1.4.0"
+  }
+}
